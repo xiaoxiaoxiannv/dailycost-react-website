@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dailycost-react-website/static/css/main.8bf42e60.chunk.css",
+    "main.js": "/dailycost-react-website/static/js/main.90314cef.chunk.js",
+    "main.js.map": "/dailycost-react-website/static/js/main.90314cef.chunk.js.map",
+    "runtime-main.js": "/dailycost-react-website/static/js/runtime-main.dbc82ace.js",
+    "runtime-main.js.map": "/dailycost-react-website/static/js/runtime-main.dbc82ace.js.map",
+    "static/js/2.ce1ef68a.chunk.js": "/dailycost-react-website/static/js/2.ce1ef68a.chunk.js",
+    "static/js/2.ce1ef68a.chunk.js.map": "/dailycost-react-website/static/js/2.ce1ef68a.chunk.js.map",
+    "index.html": "/dailycost-react-website/index.html",
+    "precache-manifest.bafc85f9fcc71df5ffaeb0c084edd69d.js": "/dailycost-react-website/precache-manifest.bafc85f9fcc71df5ffaeb0c084edd69d.js",
+    "service-worker.js": "/dailycost-react-website/service-worker.js",
+    "static/css/main.8bf42e60.chunk.css.map": "/dailycost-react-website/static/css/main.8bf42e60.chunk.css.map",
+    "static/js/2.ce1ef68a.chunk.js.LICENSE.txt": "/dailycost-react-website/static/js/2.ce1ef68a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc82ace.js",
+    "static/js/2.ce1ef68a.chunk.js",
+    "static/css/main.8bf42e60.chunk.css",
+    "static/js/main.90314cef.chunk.js"
+  ]
+}
